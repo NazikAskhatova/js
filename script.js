@@ -75,6 +75,11 @@ var fruits = cherry - peaches;
 var result = fruits / 2;
 alert(result);
 
+var apple = 20, banana = 35;
+var sells = apple + banana;
+var then = sells * 5;
+alert(then);
+
 
 // example 2 math
 result = (2 + 1) / 3 - 6 * 2
